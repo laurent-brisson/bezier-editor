@@ -26,7 +26,7 @@ def get_presets():
                 "peak_out_factor": 0.3, "peak_out_height": 0.9,
                 "end_factor": 0.4, "end_height": 0.2
             },
-            "color": "#808080",  # Gray
+            "color": "#648FFF",  # Blue
             "visible": True
         },
         'Curve 2': {
@@ -37,7 +37,7 @@ def get_presets():
                 "peak_out_factor": 0.4, "peak_out_height": 0.8,
                 "end_factor": 0.3, "end_height": 0.2
             },
-            "color": "#00FF00",  # Green
+            "color": "#785EF0",  # Purple
             "visible": True
         },
         'Curve 3': {
@@ -48,7 +48,7 @@ def get_presets():
                 "peak_out_factor": 0.1, "peak_out_height": 0.95,
                 "end_factor": 0.2, "end_height": 0.6
             },
-            "color": "#0000FF",  # Blue
+            "color": "#DC267F",  # Pink
             "visible": True
         },
         'Curve 4': {
@@ -59,7 +59,7 @@ def get_presets():
                 "peak_out_factor": 0.2, "peak_out_height": 0.85,
                 "end_factor": 0.5, "end_height": 0.4
             },
-            "color": "#800080",  # Purple
+            "color": "#FE6100",  # Orange
             "visible": True
         },
         'Curve 5': {
@@ -70,7 +70,7 @@ def get_presets():
                 "peak_out_factor": 0.2, "peak_out_height": 0.85,
                 "end_factor": 0.5, "end_height": 0.4
             },
-            "color": "#FFA500",  # Orange
+            "color": "#FFB000",  # Yellow
             "visible": True
         }
     }
