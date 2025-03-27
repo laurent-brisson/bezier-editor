@@ -2,7 +2,7 @@
 
 An interactive application for creating, manipulating, and comparing multiple Bezier curves.
 
-![Bezier Curve Editor Screenshot](bezier_editor_screenshot.png)
+![Bezier Curve Editor Screenshot](https://github.com/laurent-brisson/bezier-editor/blob/main/bezier_editor_screenshot.png?raw=true)
 
 ## Features
 
