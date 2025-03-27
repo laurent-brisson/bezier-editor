@@ -1,0 +1,92 @@
+{
+    "Bell Curve": {
+        "x0": -3.0,
+        "x1": 0.0,
+        "x2": 3.0,
+        "max_y": 1.0,
+        "control_config": {
+            "start_factor": 0.3,
+            "start_height": 0.05,
+            "peak_in_factor": 0.4,
+            "peak_in_height": 0.95,
+            "peak_out_factor": 0.4,
+            "peak_out_height": 0.95,
+            "end_factor": 0.3,
+            "end_height": 0.05
+        },
+        "color": "#FF0000",
+        "visible": true
+    },
+    "S-Curve": {
+        "x0": 0.0,
+        "x1": 5.0,
+        "x2": 10.0,
+        "max_y": 2.0,
+        "control_config": {
+            "start_factor": 0.6,
+            "start_height": 0.1,
+            "peak_in_factor": 0.1,
+            "peak_in_height": 0.9,
+            "peak_out_factor": 0.1,
+            "peak_out_height": 0.9,
+            "end_factor": 0.6,
+            "end_height": 0.1
+        },
+        "color": "#0000FF",
+        "visible": true
+    },
+    "Exponential": {
+        "x0": 0.0,
+        "x1": 8.0,
+        "x2": 10.0,
+        "max_y": 8.0,
+        "control_config": {
+            "start_factor": 0.1,
+            "start_height": 0.1,
+            "peak_in_factor": 0.2,
+            "peak_in_height": 0.8,
+            "peak_out_factor": 0.5,
+            "peak_out_height": 0.99,
+            "end_factor": 0.2,
+            "end_height": 0.9
+        },
+        "color": "#00AA00",
+        "visible": true
+    },
+    "Custom 1": {
+        "x0": 0.0,
+        "x1": 2.5,
+        "x2": 10.0,
+        "max_y": 5.0,
+        "control_config": {
+            "start_factor": 0.5,
+            "start_height": 0.3,
+            "peak_in_factor": 0.2,
+            "peak_in_height": 0.97,
+            "peak_out_factor": 0.1,
+            "peak_out_height": 0.9,
+            "end_factor": 0.7,
+            "end_height": 0.1
+        },
+        "color": "#AA00AA",
+        "visible": true
+    },
+    "Custom 2": {
+        "x0": 1.0,
+        "x1": 7.0,
+        "x2": 9.0,
+        "max_y": 3.0,
+        "control_config": {
+            "start_factor": 0.3,
+            "start_height": 0.0,
+            "peak_in_factor": 0.4,
+            "peak_in_height": 0.8,
+            "peak_out_factor": 0.3,
+            "peak_out_height": 0.6,
+            "end_factor": 0.1,
+            "end_height": 0.2
+        },
+        "color": "#DD7700",
+        "visible": true
+    }
+}
