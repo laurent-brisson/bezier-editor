@@ -2,6 +2,8 @@
 
 An interactive application for creating, manipulating, and comparing multiple Bezier curves.
 
+🔗 **[Try the live demo](https://bezier-editor.streamlit.app)**
+
 ![Bezier Curve Editor Screenshot](https://github.com/laurent-brisson/bezier-editor/blob/main/bezier_editor_screenshot.png?raw=true)
 
 ## Features
