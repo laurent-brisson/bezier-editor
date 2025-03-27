@@ -12,7 +12,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="bezier-editor",
-    version="0.1.0",
+    version="0.1.1",
     author="Laurent Brisson",
     author_email="laurent.brisson@imt-atlantique.fr",
     description="Interactive Bezier Curve Editor with Streamlit",
@@ -34,7 +34,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "bezier-editor=bezier_editor.app:main",
+            "bezier-editor=bezier_editor.cli:main",
         ],
     },
 )
