@@ -12,13 +12,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="bezier-editor",
-    version="0.1.1",
+    version="0.1.1.post1",
     author="Laurent Brisson",
     author_email="laurent.brisson@imt-atlantique.fr",
     description="Interactive Bezier Curve Editor with Streamlit",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/bezier-editor",
+    url="https://github.com/laurent-brisson/bezier-editor",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
